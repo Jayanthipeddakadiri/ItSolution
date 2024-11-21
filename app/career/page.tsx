@@ -98,7 +98,7 @@ const Page = () => {
       <div className="container mx-auto px-6 py-20">
         <div className="text-center">
           <h1 className="text-6xl font-extrabold tracking-tight">
-            Careers at <span className="text-blue-200">TechSolutions</span>
+            Careers at <span className="text-blue-200">ITSolutions</span>
           </h1>
           <p className="mt-6 text-xl text-blue-100">
             Join our team and help shape the future of technology.
@@ -110,8 +110,8 @@ const Page = () => {
             Our Company Culture
           </h2>
           <p className="mt-6 text-lg text-blue-50 leading-relaxed max-w-3xl mx-auto">
-            At TechSolutions we believe in fostering a collaborative and
-            inclusive environment where innovation thrives. We value creativity,
+            At ITSolution we believe in fostering a collaborative and inclusive
+            environment where innovation thrives. We value creativity,
             dedication, and teamwork, and we are committed to helping our
             employees grow both professionally and personally.
           </p>

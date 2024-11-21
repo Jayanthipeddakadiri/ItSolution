@@ -55,8 +55,8 @@ const Page = () => {
           <div className="md:w-1/2 mt-8 md:mt-0">
             <h2 className="text-4xl font-bold text-blue-200">Our Story</h2>
             <p className="mt-6 text-lg text-blue-50 leading-relaxed">
-              Founded in 2010, TechSolutions has grown from a small startup into
-              a leading provider of IT services and solutions. Our team of
+              Founded in 2010, ITSolutions has grown from a small startup into a
+              leading provider of IT services and solutions. Our team of
               experienced professionals is dedicated to helping businesses
               leverage technology to achieve their goals.
             </p>

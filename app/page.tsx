@@ -7,7 +7,7 @@ const HomePage = () => {
       role: "CEO, Company A",
       image: "/images/team-member.png",
       quote:
-        "TechSolutions transformed our business with their innovative solutions. Highly recommended!",
+        "IT Solution transformed our business with their innovative solutions. Highly recommended!",
     },
     {
       name: "John Smith",
@@ -38,7 +38,7 @@ const HomePage = () => {
           />
           <div className="absolute inset-0 flex flex-col items-center justify-center">
             <h1 className="text-6xl font-extrabold tracking-tight">
-              Welcome to <span className="text-blue-200">TechSolutions</span>
+              Welcome to <span className="text-blue-200">ITSolutions</span>
             </h1>
             <p className="mt-6 text-2xl text-blue-100">
               Innovative IT Solutions for Your Business
