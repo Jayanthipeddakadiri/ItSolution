@@ -40,20 +40,20 @@ const ServiceOperationSection = () => {
   const modalFields: FieldConfig[] = [
     {
       type: "text",
-      label: "Portfolio Name",
+      label: "Service Name",
       name: "title",
-      placeholder: "Enter job title",
+      placeholder: "Enter service title",
     },
     {
       type: "text",
       label: "Service name",
       name: "description",
-      placeholder: "Describe your portfolio",
+      placeholder: "Describe your service",
       rows: 5,
     },
     {
       type: "text",
-      label: "More about Portfolio",
+      label: "More about Service",
       name: "learnMore",
       placeholder: "Add something more",
       rows: 6,
@@ -106,7 +106,7 @@ const ServiceOperationSection = () => {
       </button>
       {isAddPortfolioVisible && (
         <CommonModal
-          title="Add Portfolio"
+          title="Add Service"
           handleSubmit={submitPortfoliohandler}
           handleChange={handleChange}
           fields={modalFields}
